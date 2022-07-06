@@ -9,14 +9,13 @@ APK Link - https://drive.google.com/file/d/1q69hwGoA5jRyUOtwh_BxaHEO4cLxYzSo/vie
 
 For each chapter, the App contains - 
 - Handwritten Notes for all topics
-- Video lectures by Mrs. Rakhi Gangwal
+- Video lectures
 - Worksheets along with solutions
 - Self-Assesment Tests
-- And a lot more to be added soon
 
 ## Aim / Intent
 
-The App was designed as a non-profit way to provide students of Kendriya Vidyalaya with the best and most relevant study material for CBSE, IIT-JEE and other entrance exams.
+The App was designed as a non-profit way to provide students best and most relevant study material for CBSE, IIT-JEE and other entrance exams.
 
 During the COVID-19 scenario, the App served 100+ students to get quality education at home for free learning, at their own pace.
 

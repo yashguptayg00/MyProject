@@ -1,5 +1,5 @@
 # Physics App
-Built in collaboration with Mrs. Rakhi Gangwal, PGT Physics, KV3-Jaipur
+Built in collaboration with renowned physics teacher in jaipur.
 
 Technlogies used - Flutter
 
